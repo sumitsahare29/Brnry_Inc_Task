@@ -1,6 +1,3 @@
-Here is the code for the README file that you can copy and use in your project:
-
-```markdown
 # Gas Utility Company Service Request System
 
 This project provides a service request management system for a gas utility company. The system allows customers to submit service requests, track their request statuses, and view their account information. It also provides customer support representatives with tools to manage and resolve service requests.
